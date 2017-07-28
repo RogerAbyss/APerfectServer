@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "33d2b6dacfe8acb25d2e3f866a9f8032"
+build_time: [554560589, 659000]
+inputs:
+  "/Users/abyss/Desktop/APerfectServer/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/Net.swift": [554560546, 0]
+  "/Users/abyss/Desktop/APerfectServer/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetAddress.swift": [554560546, 0]
+  "/Users/abyss/Desktop/APerfectServer/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetEvent.swift": [554560546, 0]
+  "/Users/abyss/Desktop/APerfectServer/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetNamedPipe.swift": [554560546, 0]
+  "/Users/abyss/Desktop/APerfectServer/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetTCP.swift": [554560546, 0]
+  "/Users/abyss/Desktop/APerfectServer/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetTCPSSL.swift": [554560546, 0]
+  "/Users/abyss/Desktop/APerfectServer/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetUDP.swift": [554560546, 0]

@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/abyss/Desktop/APerfectServer/.build/debug/APerfectServer.build/master.swiftdeps"
+  },
+  "/Users/abyss/Desktop/APerfectServer/Sources/Handle.swift": {
+    "dependencies": "/Users/abyss/Desktop/APerfectServer/.build/debug/APerfectServer.build/Handle.d",
+    "object": "/Users/abyss/Desktop/APerfectServer/.build/debug/APerfectServer.build/Handle.swift.o",
+    "swiftmodule": "/Users/abyss/Desktop/APerfectServer/.build/debug/APerfectServer.build/Handle~partial.swiftmodule",
+    "swift-dependencies": "/Users/abyss/Desktop/APerfectServer/.build/debug/APerfectServer.build/Handle.swiftdeps"
+  },
+  "/Users/abyss/Desktop/APerfectServer/Sources/main.swift": {
+    "dependencies": "/Users/abyss/Desktop/APerfectServer/.build/debug/APerfectServer.build/main.d",
+    "object": "/Users/abyss/Desktop/APerfectServer/.build/debug/APerfectServer.build/main.swift.o",
+    "swiftmodule": "/Users/abyss/Desktop/APerfectServer/.build/debug/APerfectServer.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/abyss/Desktop/APerfectServer/.build/debug/APerfectServer.build/main.swiftdeps"
+  },
+  "/Users/abyss/Desktop/APerfectServer/Sources/Router.swift": {
+    "dependencies": "/Users/abyss/Desktop/APerfectServer/.build/debug/APerfectServer.build/Router.d",
+    "object": "/Users/abyss/Desktop/APerfectServer/.build/debug/APerfectServer.build/Router.swift.o",
+    "swiftmodule": "/Users/abyss/Desktop/APerfectServer/.build/debug/APerfectServer.build/Router~partial.swiftmodule",
+    "swift-dependencies": "/Users/abyss/Desktop/APerfectServer/.build/debug/APerfectServer.build/Router.swiftdeps"
+  },
+  "/Users/abyss/Desktop/APerfectServer/Sources/ServerManager.swift": {
+    "dependencies": "/Users/abyss/Desktop/APerfectServer/.build/debug/APerfectServer.build/ServerManager.d",
+    "object": "/Users/abyss/Desktop/APerfectServer/.build/debug/APerfectServer.build/ServerManager.swift.o",
+    "swiftmodule": "/Users/abyss/Desktop/APerfectServer/.build/debug/APerfectServer.build/ServerManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/abyss/Desktop/APerfectServer/.build/debug/APerfectServer.build/ServerManager.swiftdeps"
+  }
+}

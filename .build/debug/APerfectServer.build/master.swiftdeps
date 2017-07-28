@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "7ccae55ed439676f9949ffc3846076c3"
+build_time: [554566682, 785235000]
+inputs:
+  "/Users/abyss/Desktop/APerfectServer/Sources/Handle.swift": [9223372036854775807, 0]
+  "/Users/abyss/Desktop/APerfectServer/Sources/main.swift": [554566667, 0]
+  "/Users/abyss/Desktop/APerfectServer/Sources/Router.swift": [9223372036854775807, 0]
+  "/Users/abyss/Desktop/APerfectServer/Sources/ServerManager.swift": [554566373, 0]

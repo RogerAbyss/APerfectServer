@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "598f3a954f30cfcd05894954f503fb99"
+build_time: [554560604, 594054000]
+inputs:
+  "/Users/abyss/Desktop/APerfectServer/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPFilter.swift": [554560546, 0]
+  "/Users/abyss/Desktop/APerfectServer/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPHeaders.swift": [554560546, 0]
+  "/Users/abyss/Desktop/APerfectServer/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPMethod.swift": [554560546, 0]
+  "/Users/abyss/Desktop/APerfectServer/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPRequest.swift": [554560546, 0]
+  "/Users/abyss/Desktop/APerfectServer/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPResponse.swift": [554560546, 0]
+  "/Users/abyss/Desktop/APerfectServer/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/MimeReader.swift": [554560546, 0]
+  "/Users/abyss/Desktop/APerfectServer/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/MimeType.swift": [554560546, 0]
+  "/Users/abyss/Desktop/APerfectServer/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/Routing.swift": [554560546, 0]
+  "/Users/abyss/Desktop/APerfectServer/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/StaticFileHandler.swift": [554560546, 0]

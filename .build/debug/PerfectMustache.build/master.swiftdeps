@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "e114722aeacdc0d3c35d18e68d0aac18"
+build_time: [554562506, 428574000]
+inputs:
+  "/Users/abyss/Desktop/APerfectServer/.build/checkouts/Perfect-Mustache.git-4271886153857801499/Sources/Mustache.swift": [554562231, 0]
