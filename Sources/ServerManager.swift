@@ -51,6 +51,7 @@ class ServerManager {
             
             routes.add(method: .get, uri: "/login", handler: Handle.login())
             routes.add(method: .get, uri: "/regist", handler: Handle.regist())
+            routes.add(method: .get, uri: "/config", handler: Handle.config())
         }
         catch {
             print(error)
