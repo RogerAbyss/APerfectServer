@@ -60,16 +60,19 @@ class ServerManager {
 }
 
 /// 通用响应格式
-func baseResponseJsonData(status: StatusCode, msg: String, data: Any?) -> String {
+func baseResponseJsonData(status: StatusCode, msg: String, data: Any?, operation: String?) -> String {
     
     var result = [String: Any]()
     result.updateValue(status.rawValue, forKey: "status")
     result.updateValue(msg, forKey: "msg")
     if data != nil {
-        result.updateValue(data!, forKey: "data")
+        result.updateValue(data!, forKey: "response")
     }else {
-        result.updateValue("", forKey: "data")
+        result.updateValue("", forKey: "response")
     }
+    
+    result.updateValue(operation, forKey: "operation")
+    
     
     guard let json = try? result.jsonEncodedString() else{
         return ""

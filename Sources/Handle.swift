@@ -13,8 +13,9 @@ struct Handle {
             var status: StatusCode = .SUCCESS
             var msg: String = "操作成功"
             var data: Any? = nil
+            var operation : String = "zgxl://perform?target=FixManager&method=config"
             defer {
-                let json = baseResponseJsonData(status: status, msg: msg, data: data)
+                let json = baseResponseJsonData(status: status, msg: msg, data: data, operation: operation)
                 response.setHeader(.contentType, value: "application/json")
                 response.appendBody(string: json)
                 response.completed()
@@ -30,8 +31,9 @@ struct Handle {
             var status: StatusCode = .SUCCESS
             var msg: String = "操作成功"
             var data: Any? = nil
+            var operation : String = "zgxl://perform?target=FixManager&method=config"
             defer {
-                let json = baseResponseJsonData(status: status, msg: msg, data: data)
+                let json = baseResponseJsonData(status: status, msg: msg, data: data, operation: operation)
                 response.setHeader(.contentType, value: "application/json")
                 response.appendBody(string: json)
                 response.completed()
